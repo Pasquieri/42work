@@ -1,0 +1,1 @@
+traceroute -m 9 slash16.org | cut -d "(" -f2 | cut -d ")" -f1
