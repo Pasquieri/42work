@@ -1,1 +1,1 @@
-iptables -p INPUT DROP
+sudo iptables -P INPUT DROP
