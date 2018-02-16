@@ -1,1 +1,1 @@
-ls -S $@
+sudo du $@ | sort -n -r
